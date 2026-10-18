@@ -1,0 +1,1 @@
+let buy_btn=document.querySelector(buy_btn)
